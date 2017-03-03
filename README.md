@@ -1,10 +1,10 @@
-# GithubRepoFinder
-# Lab 3 - *GithubRepoFinder*
-# Creators: Sandeep Raghunandhan, Vicky Tang
+# GithubRepoFinderWithSettingsScreen
+# Lab 5 - *GithubRepoFinderWithSettingsScreen*
+# Creators: Sim Singh, Vicky Tang
 
-**GithubRepoFinder** is a GitHub Repo search app using the [GitHub API](https://developer.github.com/v3/search/#search-repositories).
+**GithubRepoFinderWithSettingsScreen** is a GitHub Repo search app using the [GitHub API](https://developer.github.com/v3/search/#search-repositories).
 
-Time spent: **1.5** hours spent in total
+Time spent: **1.0** hours spent in total
 
 ## User Stories
 
@@ -12,6 +12,7 @@ The following **required** functionality is completed:
 
 - [X] Table rows for search results should be dynamic height according to the content height.
 - [X] Custom cells should have the proper Auto Layout constraints.
+- [X] Filter repos based on number of stars
 
 The following **additional** features are implemented:
 
@@ -26,17 +27,17 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/vctang/GithubRepoFinder/blob/master/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/gbUNoDy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Was initially unsure how to get the json information to the repo cell.
+None
 
 ## License
 
-    Copyright [2017] [Sandeep Raghunandhan, Vicky Tang]
+    Copyright [2017] [Sim Singh, Vicky Tang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
